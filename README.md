@@ -14,5 +14,4 @@ systems and quantitative research.
 
 ### Contact
 - Email: ytang102@jh.edu
-- Website: https://yuki66622.github.io
 - LinkedIn: https://www.linkedin.com/in/yuki-tang-
