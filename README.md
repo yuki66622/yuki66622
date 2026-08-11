@@ -1,4 +1,4 @@
-## Yuki Tang
+## Yuqi Tang
 
 Undergraduate at Johns Hopkins University (Applied & Pure Mathematics and
 Piano Performance; minor in Computer Science), interested in machine learning
